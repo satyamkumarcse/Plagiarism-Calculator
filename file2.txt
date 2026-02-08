@@ -1,0 +1,4 @@
+Random introduction text.
+This project is a plagiarism checker.
+It compares text files line by line.
+Some extra content here.
