@@ -1,0 +1,8 @@
+Our project detects direct and partial plagiarism using textual similarity. Other forms like paraphrasing, idea plagiarism, and translation plagiarism require advanced NLP and human review, so they are outside the scope of this implementation.
+
+
+Direct plagiarism (exact consecutive lines copied)
+Partial plagiarism (partial overlap using word matching)
+
+version 
+“We consider the maximum similarity because the most severe form of plagiarism determines the final judgment.”

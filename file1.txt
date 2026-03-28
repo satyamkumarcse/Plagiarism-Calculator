@@ -1,3 +1,4 @@
 This project is a plagiarism checker.
 It compares text files line by line.
 The logic is very simple.
+The scent of old books mixed with brewing coffee always reminds me of rainy Tuesday afternoons. It is in these quiet moments that the mind tends to wander toward forgotten memories and distant dreams. A blue pen lies idle beside an open notebook, waiting for words that never 
